@@ -1,6 +1,6 @@
 Config = {}
 
-Config.AdminOnly = false -- Only Admins will be able to use this NUI
+Config.AdminOnly = true -- Only Admins will be able to use this NUI
 Config.CreateSceneKey = 'K' -- https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
 Config.DeleteSceneKey = 'DELETE' -- https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
 Config.MaxPlacementDistance = 25.0
